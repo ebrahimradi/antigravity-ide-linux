@@ -1,0 +1,9 @@
+*.tar.gz
+*.snap
+parts/
+stage/
+prime/
+.version
+.source-url
+tmp/
+

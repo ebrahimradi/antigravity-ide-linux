@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Update Antigravity IDE
+Comment=Check for and install Antigravity IDE updates
+Exec=bash -c "/usr/local/bin/update-antigravity-ide; echo ''; read -n 1 -s -r -p 'Press any key to close...'"
+Icon=antigravity-ide
+Terminal=true
+Type=Application
+Categories=Development;IDE;
+StartupNotify=true
